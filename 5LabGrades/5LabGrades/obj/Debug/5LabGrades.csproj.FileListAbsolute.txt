@@ -1,0 +1,7 @@
+C:\Users\death\source\repos\5LabGrades\5LabGrades\bin\Debug\5LabGrades.exe.config
+C:\Users\death\source\repos\5LabGrades\5LabGrades\bin\Debug\5LabGrades.exe
+C:\Users\death\source\repos\5LabGrades\5LabGrades\bin\Debug\5LabGrades.pdb
+C:\Users\death\source\repos\5LabGrades\5LabGrades\obj\Debug\5LabGrades.csproj.AssemblyReference.cache
+C:\Users\death\source\repos\5LabGrades\5LabGrades\obj\Debug\5LabGrades.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\5LabGrades\5LabGrades\obj\Debug\5LabGrades.exe
+C:\Users\death\source\repos\5LabGrades\5LabGrades\obj\Debug\5LabGrades.pdb

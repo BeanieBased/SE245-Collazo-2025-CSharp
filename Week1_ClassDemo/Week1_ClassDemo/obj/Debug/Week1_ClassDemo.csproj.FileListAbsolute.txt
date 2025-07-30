@@ -1,0 +1,7 @@
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\bin\Debug\Week1_ClassDemo.exe.config
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\bin\Debug\Week1_ClassDemo.exe
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\bin\Debug\Week1_ClassDemo.pdb
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\obj\Debug\Week1_ClassDemo.csproj.AssemblyReference.cache
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\obj\Debug\Week1_ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\obj\Debug\Week1_ClassDemo.exe
+C:\Users\death\source\repos\Week1_ClassDemo\Week1_ClassDemo\obj\Debug\Week1_ClassDemo.pdb

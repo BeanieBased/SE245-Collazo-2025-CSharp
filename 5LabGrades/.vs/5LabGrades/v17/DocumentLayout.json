@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\death\\source\\repos\\5LabGrades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5020F340-7D9C-4FEC-9C28-08C8937E876D}|5LabGrades\\5LabGrades.csproj|c:\\users\\death\\source\\repos\\5labgrades\\5labgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5020F340-7D9C-4FEC-9C28-08C8937E876D}|5LabGrades\\5LabGrades.csproj|solutionrelative:5labgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\death\\source\\repos\\5LabGrades\\5LabGrades\\Program.cs",
+              "RelativeDocumentMoniker": "5LabGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\death\\source\\repos\\5LabGrades\\5LabGrades\\Program.cs",
+              "RelativeToolTip": "5LabGrades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:32:28.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\bin\Debug\GradeAssignment.exe.config
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\bin\Debug\GradeAssignment.exe
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\bin\Debug\GradeAssignment.pdb
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\obj\Debug\GradeAssignment.csproj.AssemblyReference.cache
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\obj\Debug\GradeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\obj\Debug\GradeAssignment.exe
+C:\Users\death\source\repos\GradeAssignment\GradeAssignment\obj\Debug\GradeAssignment.pdb

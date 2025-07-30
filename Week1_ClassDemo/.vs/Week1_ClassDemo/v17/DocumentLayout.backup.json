@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\death\\source\\repos\\Week1_ClassDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F81942F-B289-4690-8788-9DD2559C85E5}|Week1_ClassDemo\\Week1_ClassDemo.csproj|c:\\users\\death\\source\\repos\\week1_classdemo\\week1_classdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F81942F-B289-4690-8788-9DD2559C85E5}|Week1_ClassDemo\\Week1_ClassDemo.csproj|solutionrelative:week1_classdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\death\\source\\repos\\Week1_ClassDemo\\Week1_ClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Week1_ClassDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\death\\source\\repos\\Week1_ClassDemo\\Week1_ClassDemo\\Program.cs",
+              "RelativeToolTip": "Week1_ClassDemo\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:42:00.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

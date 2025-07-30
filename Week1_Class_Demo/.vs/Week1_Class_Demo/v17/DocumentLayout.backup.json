@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\death\\source\\repos\\Week1_Class_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76D4CD6-D0C4-4A09-BE78-A24623A08E5F}|Week1_Class_Demo\\Week1_Class_Demo.vbproj|c:\\users\\death\\source\\repos\\week1_class_demo\\week1_class_demo\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E76D4CD6-D0C4-4A09-BE78-A24623A08E5F}|Week1_Class_Demo\\Week1_Class_Demo.vbproj|solutionrelative:week1_class_demo\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\death\\source\\repos\\Week1_Class_Demo\\Week1_Class_Demo\\Module1.vb",
+              "RelativeDocumentMoniker": "Week1_Class_Demo\\Module1.vb",
+              "ToolTip": "C:\\Users\\death\\source\\repos\\Week1_Class_Demo\\Week1_Class_Demo\\Module1.vb",
+              "RelativeToolTip": "Week1_Class_Demo\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T20:35:48.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
