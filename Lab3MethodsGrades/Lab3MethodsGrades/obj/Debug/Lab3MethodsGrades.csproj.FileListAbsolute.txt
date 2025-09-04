@@ -1,0 +1,7 @@
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\bin\Debug\Lab3MethodsGrades.exe.config
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\bin\Debug\Lab3MethodsGrades.exe
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\bin\Debug\Lab3MethodsGrades.pdb
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\obj\Debug\Lab3MethodsGrades.csproj.AssemblyReference.cache
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\obj\Debug\Lab3MethodsGrades.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\obj\Debug\Lab3MethodsGrades.exe
+C:\Users\death\source\repos\Lab3MethodsGrades\Lab3MethodsGrades\obj\Debug\Lab3MethodsGrades.pdb
